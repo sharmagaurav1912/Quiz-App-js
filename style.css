@@ -1,0 +1,16 @@
+.quiz-card{
+    height: 400px !important;
+}
+
+.quiz-card label{
+    font-size: 25px;
+    margin: 0px 1.5rem;
+}
+
+#submit-btn{
+    height: 2.5rem;
+}
+
+#submit-btn:hover{
+    background-color: rgb(0, 153, 64) !important;
+}
